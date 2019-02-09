@@ -1,0 +1,5 @@
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\STVNUIApplication1\STVNUIApplication1\bin\Debug\netcoreapp2.0\tpkroot\bin\STVNUIApplication1.dll
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\STVNUIApplication1\STVNUIApplication1\bin\Debug\netcoreapp2.0\tpkroot\bin\STVNUIApplication1.pdb
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\STVNUIApplication1\STVNUIApplication1\bin\Debug\netcoreapp2.0\tpkroot\shared\res\STVNUIApplication1.png
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\STVNUIApplication1\STVNUIApplication1\bin\Debug\netcoreapp2.0\tpkroot\tizen-manifest.xml
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\STVNUIApplication1\STVNUIApplication1\bin\Debug\netcoreapp2.0\org.tizen.example.STVNUIApplication1-1.0.0.tpk

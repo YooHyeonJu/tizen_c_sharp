@@ -1,0 +1,5 @@
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\tpkroot\bin\HelloWorld.dll
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\tpkroot\bin\HelloWorld.pdb
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\tpkroot\shared\res\HelloWorld.png
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\tpkroot\tizen-manifest.xml
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\org.tizen.example.HelloWorld-1.0.0.tpk

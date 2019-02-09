@@ -1,0 +1,11 @@
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.deps.json
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.runtimeconfig.json
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.dll
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.pdb
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.csprojAssemblyReference.cache
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.AssemblyInfo.cs
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.dll
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.pdb

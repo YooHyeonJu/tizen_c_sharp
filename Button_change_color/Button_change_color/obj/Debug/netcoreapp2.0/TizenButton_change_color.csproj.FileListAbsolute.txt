@@ -1,0 +1,5 @@
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\Button_change_color\Button_change_color\bin\Debug\netcoreapp2.0\tpkroot\bin\Button_change_color.dll
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\Button_change_color\Button_change_color\bin\Debug\netcoreapp2.0\tpkroot\bin\Button_change_color.pdb
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\Button_change_color\Button_change_color\bin\Debug\netcoreapp2.0\tpkroot\shared\res\Button_change_color.png
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\Button_change_color\Button_change_color\bin\Debug\netcoreapp2.0\tpkroot\tizen-manifest.xml
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\TV_NUI(NO_C_sharp)\Button_change_color\Button_change_color\bin\Debug\netcoreapp2.0\org.tizen.example.Button_change_color-1.0.0.tpk

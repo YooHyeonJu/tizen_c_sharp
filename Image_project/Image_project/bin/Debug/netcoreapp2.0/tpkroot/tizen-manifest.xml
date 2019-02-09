@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="4" package="org.tizen.example.Image_project" version="1.0.0">
+	<feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+  <profile name="common" />
+  <ui-application appid="org.tizen.example.Image_project"
+					exec="Image_project.dll"
+					type="dotnet"
+					multiple="false"
+					taskmanage="true"
+					nodisplay="false"
+					launch_mode="single">
+    <label>Image_project</label>
+    <icon>Image_project.png</icon>
+  </ui-application>
+  <tv-info api-version="4.4.0">
+    <Infolink>T-INFOLINK2018-1000</Infolink>
+  </tv-info>
+</manifest>
