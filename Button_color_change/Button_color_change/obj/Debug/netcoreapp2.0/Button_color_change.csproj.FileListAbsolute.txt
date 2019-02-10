@@ -1,0 +1,11 @@
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\Button_color_change\Button_color_change\bin\Debug\netcoreapp2.0\Button_color_change.deps.json
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\Button_color_change\Button_color_change\bin\Debug\netcoreapp2.0\Button_color_change.runtimeconfig.json
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\Button_color_change\Button_color_change\bin\Debug\netcoreapp2.0\Button_color_change.runtimeconfig.dev.json
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\Button_color_change\Button_color_change\bin\Debug\netcoreapp2.0\Button_color_change.dll
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\Button_color_change\Button_color_change\bin\Debug\netcoreapp2.0\Button_color_change.pdb
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\Button_color_change\Button_color_change\obj\Debug\netcoreapp2.0\Button_color_change.csproj.CoreCompileInputs.cache
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\Button_color_change\Button_color_change\obj\Debug\netcoreapp2.0\Button_color_change.AssemblyInfoInputs.cache
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\Button_color_change\Button_color_change\obj\Debug\netcoreapp2.0\Button_color_change.AssemblyInfo.cs
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\Button_color_change\Button_color_change\obj\Debug\netcoreapp2.0\Button_color_change.dll
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\Button_color_change\Button_color_change\obj\Debug\netcoreapp2.0\Button_color_change.pdb
+C:\Users\yhj80\Documents\Visual Studio 2017\Projects\Button_color_change\Button_color_change\obj\Debug\netcoreapp2.0\Button_color_change.csprojAssemblyReference.cache

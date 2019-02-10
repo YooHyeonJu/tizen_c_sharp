@@ -16,15 +16,15 @@
     </Reference>
     <Reference URI="bin%2FImage_project.pdb">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>+rHM9g+Sq0MvysxtgTzJQRc75it38PhPu/Xf0IAU+YI=</DigestValue>
+      <DigestValue>rM3aZPPyWGHkhyJMX5YwoEkbmCnSSVq/9PjLLFH8PVs=</DigestValue>
     </Reference>
     <Reference URI="bin%2FImage_project.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>mwFFlWf1V82FwDYoaLz9wkwoaiw1IkB3/97D879hXgg=</DigestValue>
+      <DigestValue>nowylTiibKhwl2QWwGUCrzSdGjIUy2Y0O5Xb9SfkmWc=</DigestValue>
     </Reference>
     <Reference URI="author-signature.xml">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>0OsUlP1mZ4o5HZdCkjtY/KKbJFhNPlcaeJ6zhRoKyGQ=</DigestValue>
+      <DigestValue>OaQ7sX3K6/itcfYphy8CZz4DzY6+1wnwbmVkxp0avPM=</DigestValue>
     </Reference>
     <Reference URI="#prop">
       <Transforms>
@@ -35,9 +35,9 @@
     </Reference>
   </SignedInfo>
   <SignatureValue>
-WH5M2z39j8ikdf+ih7v0kajugkQoZtqOfgrDrj8Y/scyuOBN2/qblPMsoXGGp6+jNWK3vgPTBWDo
-cKExvss2JK/062GtPNJIyworAc55sx1sEaLg3IymV7zxYAWks4Gphswp6xpP3qPhhU+zGqluwpnc
-gG4bBsjqlLVAETDIaJI=
+H95vLQhZr6HyHDtDmoy4faAiiCGHe6oiO9DUOhamLOin1/B9aJuCISqdZ2OQM5rqeyJCR3C/TurF
+SQD2JkRcFWZsJUS3jzlIJlJA9oOxgxQ1rFu1EoJW1b+bQwt2kifFs6pBWnjnLWt8glaYLiTXNsRv
+yOSQ42pg2oOrqk1xmzw=
 </SignatureValue>
   <KeyInfo>
     <X509Data>

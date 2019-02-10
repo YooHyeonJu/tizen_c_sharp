@@ -14,12 +14,13 @@ namespace HelloWorld
 
         void Initialize()
         {
+            Window.Instance.BackgroundColor = Color.Yellow;
             Window.Instance.KeyEvent += OnKeyEvent;
 
-            TextLabel text = new TextLabel("Hello Tizen NUI World");
+            TextLabel text = new TextLabel("Hello World");
             text.HorizontalAlignment = HorizontalAlignment.Center;
             text.VerticalAlignment = VerticalAlignment.Center;
-            text.TextColor = Color.White;
+            text.TextColor = Color.Magenta;
             text.PointSize = 100.0f;
             text.HeightResizePolicy = ResizePolicyType.FillToParent;
             text.WidthResizePolicy = ResizePolicyType.FillToParent;

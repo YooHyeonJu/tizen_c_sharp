@@ -16,11 +16,11 @@
     </Reference>
     <Reference URI="bin%2FImage_project.pdb">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>+rHM9g+Sq0MvysxtgTzJQRc75it38PhPu/Xf0IAU+YI=</DigestValue>
+      <DigestValue>rM3aZPPyWGHkhyJMX5YwoEkbmCnSSVq/9PjLLFH8PVs=</DigestValue>
     </Reference>
     <Reference URI="bin%2FImage_project.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>mwFFlWf1V82FwDYoaLz9wkwoaiw1IkB3/97D879hXgg=</DigestValue>
+      <DigestValue>nowylTiibKhwl2QWwGUCrzSdGjIUy2Y0O5Xb9SfkmWc=</DigestValue>
     </Reference>
     <Reference URI="#prop">
       <Transforms>
@@ -31,9 +31,9 @@
     </Reference>
   </SignedInfo>
   <SignatureValue>
-hQcn2zOhwcsSSprlgutdc8+twqxynitxmpT8RzPjkzKUsEdlnmNg7cbm4W536iu8W/2J3DhE2iJ+
-A0lf5ILV263v678oGSaIg7xLcjiZ3VBaDTkGdk6cpVXWswPHEneViPqrzQirUluyeVaQ7jKpvtXm
-37uT69jvHA31PoRdgzs=
+jNiGtMGxTVzqlvuyYWJ/5IsAinR0cx47glh83wXL7YLN1Rnsq/akkhBa0GfydhYuVkTpz6WeQmWP
+ZOlekXxIXDBHPU9rhVTdS/X2CBCYoG1SpPVXbF8Po5KJy5/lF4dTw+AEFQsoi/gz67LMXY/UNy/F
+Xwq0KIixN3KlT29Vols=
 </SignatureValue>
   <KeyInfo>
     <X509Data>

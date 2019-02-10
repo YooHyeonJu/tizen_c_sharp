@@ -12,15 +12,15 @@
     </Reference>
     <Reference URI="bin%2FHelloWorld.pdb">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>mwPqVKwP4U5UGI8No/pRo/tmj4ZCOCi8EdQb8TMuzdI=</DigestValue>
+      <DigestValue>hfaYNdDp21RqaBYiNcC8p9G8R+PvMSNgVZdLord01FI=</DigestValue>
     </Reference>
     <Reference URI="bin%2FHelloWorld.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>gQk215L305Z8dltzFbdoPd8mIzdZXg07qFNWWmAC5qM=</DigestValue>
+      <DigestValue>Swcz7WJ5Ea/CTdE3AX0G/NHDaSLp+xEjEYLDZ916NCU=</DigestValue>
     </Reference>
     <Reference URI="author-signature.xml">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>NfEyeOWVfz4YF/V5bHb69iRovHzZwy8rEl72SYLNH3g=</DigestValue>
+      <DigestValue>p1vhclbBmVvZ9T9hruirR0c6irVDIxSK1A7nL6QWuh4=</DigestValue>
     </Reference>
     <Reference URI="#prop">
       <Transforms>
@@ -31,9 +31,9 @@
     </Reference>
   </SignedInfo>
   <SignatureValue>
-sefmmjqVfxvrXD2Zilm93VUxBtRxj1d5njxgDgKuHNW7IO0LRrayjE5BMaeM61jtMA4Khym+y4Nb
-Y3wbCm4oQI56CdYaGLyn6S30rE3qSkk8FcYqHbScMqtYYiXZxyxK69yeR9b0kXXTqgjwYaOVilO2
-SEkavlp+r/mxJbsBTZs=
+jII1l90YlsWO6etsr0t/f8BxyudYXgkKti79lCJIMmLRIHLJ4dyKaDMKhRkPzvKSdvBUMw9Qrd3d
+09QBsXqXJ+hkpH6PhhufXxHgaRobPPR6u0NmOTVgnSiUK0en7tsfmra3NetepvxMOLEaI44E2A5c
+k2sqaBBTLy3SWMfYqzI=
 </SignatureValue>
   <KeyInfo>
     <X509Data>

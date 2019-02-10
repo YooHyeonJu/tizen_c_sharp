@@ -12,11 +12,11 @@
     </Reference>
     <Reference URI="bin%2FHelloWorld.pdb">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>mwPqVKwP4U5UGI8No/pRo/tmj4ZCOCi8EdQb8TMuzdI=</DigestValue>
+      <DigestValue>hfaYNdDp21RqaBYiNcC8p9G8R+PvMSNgVZdLord01FI=</DigestValue>
     </Reference>
     <Reference URI="bin%2FHelloWorld.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>gQk215L305Z8dltzFbdoPd8mIzdZXg07qFNWWmAC5qM=</DigestValue>
+      <DigestValue>Swcz7WJ5Ea/CTdE3AX0G/NHDaSLp+xEjEYLDZ916NCU=</DigestValue>
     </Reference>
     <Reference URI="#prop">
       <Transforms>
@@ -27,9 +27,9 @@
     </Reference>
   </SignedInfo>
   <SignatureValue>
-em5EGSuzp5246lsTBCjF/MtP4fs6nnJYxDUX3L1PQl5CA5o5Ux0+g4X2b8x8cRZbXVcza3f4zxEt
-zhHcBMM1TLdXybbicih7sHtP+rUQcFj+JhAUuVZe20IvsfFrvXwhyZ3zSUtgJozJLkb2wH+VEjmj
-EqqAlt6G2crah6Tj6Ic=
+GLWtWUAmWvKEJyOrzaO5d27hJGbV73dFEAZhaN912j9N3g1pD4ywGgkdRHVWGtCp9xQ1XaOFQ/pq
+abmAitNZYQAQsRGOYQWGyGV2JIn8IWGekv9AobmztZ/JmaF8zRnMJqcGjIKjiiTpKNcTEikuMSlD
+JjfktS3NMRIbphd/l3Y=
 </SignatureValue>
   <KeyInfo>
     <X509Data>
