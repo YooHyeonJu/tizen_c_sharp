@@ -17,6 +17,7 @@ namespace STVNUIApplication1
         {
             Window.Instance.KeyEvent += OnKeyEvent;
 
+            /*
             TextLabel text = new TextLabel("Hello World");
             text.HorizontalAlignment = HorizontalAlignment.Center;
             text.VerticalAlignment = VerticalAlignment.Center;
@@ -24,16 +25,21 @@ namespace STVNUIApplication1
             text.PointSize = 100.0f;
             text.HeightResizePolicy = ResizePolicyType.FillToParent;
             text.WidthResizePolicy = ResizePolicyType.FillToParent;
+            */
 
             ImageView view = new ImageView();
-            view.Size2D = new Size2D(200, 200);
-            view.Position = new Position(860, 275, 0);
+            view.Size2D = new Size2D(500, 200);
+            view.Position = new Position(750, 275, 0);
             view.PositionUsesPivotPoint = true;
             view.PivotPoint = PivotPoint.TopLeft;
             view.ParentOrigin = ParentOrigin.TopLeft;
-            view.SetImage("/opt/usr/apps/Image_project/tizen_image.jpg");
+            //view.SetImage(DirectoryInfo.Resource + "\tizen_image.jpg");
+            view.SetImage(DirectoryInfo.Resource + "tizen_image.jpg");
+
+            
+            //view.SetImage("/opt/usr/apps/Image_project/tizen_image.jpg");
             //file:///C:/Users/yhj80/Documents/Visual%20Studio%202017/Projects/TV_NUI(NO_C_sharp)/Image_project/Image_project/tizen_image.jpg
-            Window.Instance.GetDefaultLayer().Add(text);
+            //Window.Instance.GetDefaultLayer().Add(text);
             Window.Instance.GetDefaultLayer().Add(view);
         }
 
@@ -45,6 +51,7 @@ namespace STVNUIApplication1
             }
         }
 
+        /*
         static void app_get_resource(const char* edj_file_in, char* edj_path_out, int edj_path_max)
         {
             char* res_path = app_get_resource_path();
@@ -53,6 +60,7 @@ namespace STVNUIApplication1
                 free(res_path);
             }
         }
+        */
 
         static void Main(string[] args)
         {

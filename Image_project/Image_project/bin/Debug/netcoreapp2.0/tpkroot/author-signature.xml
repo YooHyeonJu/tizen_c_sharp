@@ -10,13 +10,17 @@
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
       <DigestValue>/gTbhhRqVKFAMykTkZyDaEozK7OBNMSXGtsJpmRcLuE=</DigestValue>
     </Reference>
+    <Reference URI="res%2Ftizen_image.jpg">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>5M5qktUG0VM5XoaqBJ17FPpZPMgQhreAcM3BKB1vU4A=</DigestValue>
+    </Reference>
     <Reference URI="bin%2FImage_project.pdb">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>fR0OjSW8JTirNBK/8c8EzB+0uVm4TSkRdOupPuVcZfc=</DigestValue>
+      <DigestValue>+rHM9g+Sq0MvysxtgTzJQRc75it38PhPu/Xf0IAU+YI=</DigestValue>
     </Reference>
     <Reference URI="bin%2FImage_project.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-      <DigestValue>eDDUYMStsPyxiI/ytgZvFgC+nEK4/lZfuyeqIt+TyNA=</DigestValue>
+      <DigestValue>mwFFlWf1V82FwDYoaLz9wkwoaiw1IkB3/97D879hXgg=</DigestValue>
     </Reference>
     <Reference URI="#prop">
       <Transforms>
@@ -27,9 +31,9 @@
     </Reference>
   </SignedInfo>
   <SignatureValue>
-Cg5cHOwZ0w+cbwDBGJkjMcthxq1hP2KSVOxW+r3AmIqrcRnCstEzbyZOFZ+SNxRlxRIyPfQw7Gvg
-uJRgGEp8bdaaZ/ocdS5K2gZslTLg9KAqXt1KIEqzwN6B6odYjDlCw6RqpCsxclQrKTHvaBelFXN5
-FruVUPBM2TrjsFp+R/A=
+hQcn2zOhwcsSSprlgutdc8+twqxynitxmpT8RzPjkzKUsEdlnmNg7cbm4W536iu8W/2J3DhE2iJ+
+A0lf5ILV263v678oGSaIg7xLcjiZ3VBaDTkGdk6cpVXWswPHEneViPqrzQirUluyeVaQ7jKpvtXm
+37uT69jvHA31PoRdgzs=
 </SignatureValue>
   <KeyInfo>
     <X509Data>
