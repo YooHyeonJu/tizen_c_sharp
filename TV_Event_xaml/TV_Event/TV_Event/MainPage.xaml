@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TV_Event.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label
+                x:Name="ClickableLabel"
+                Text="Hello"
+                TextColor="White"
+                FontSize="200"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"/>
+
+            <!--
+                <Button                
+                Text="Button"               
+                Clicked="buttonClicked"
+                VerticalOptions="FillAndExpand" 
+                HorizontalOptions="FillAndExpand"/>
+            -->
+            
+            <Button
+                Clicked="ButtonTextClicked"
+                Text="Button"                
+                TextColor="Blue"
+                FontSize="100"
+                VerticalOptions="FillAndExpand" 
+                HorizontalOptions="FillAndExpand"/>
+             
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
